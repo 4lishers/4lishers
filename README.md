@@ -22,7 +22,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@4lishbaRihash
 [instagram]: https://www.instagram.com/alishbaugc/
 [linkedin]: https://www.linkedin.com/in/alishba-rizwan-854962292/
 
