@@ -2,8 +2,8 @@
 
 <h2>👩‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/4lishers/ActiveDirectoryLab)
+  - [Hello World](https://github.com/4lishers/ActiveDirectoryLab)
 
 <h2>📜 Certifications</h2>
 
