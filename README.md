@@ -1,42 +1,20 @@
-<h1>Hi, I'm Alishba!  </h1>
+# Hi, I'm Alishba! 👋
 
-<h2>👩‍💻 Cyber Security Projects:</h2>
+Math student at the **University of Waterloo**, majoring in **Statistics**.
+I like turning data into decisions, and I learn best by building things.
 
-  - [Active Directory Home Lab](https://github.com/4lishers/ActiveDirectoryLab)
-  - [Hello World](https://github.com/4lishers/ActiveDirectoryLab)
+## 🔭 Currently
+- Learning SQL and Python (pandas) for data analysis
+- Building my first data analysis project (coming soon)
 
-<h2>📜 Certifications</h2>
+## 🛠️ Tools
+Python · R · C# · SQL · Excel · Power BI
 
-- [Cybersecurity Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## 🔐 Cybersecurity Projects
+- [Active Directory Home Lab](https://github.com/4lishers/ActiveDirectoryLab): set up and configured a Windows Active Directory environment in a home lab
 
-
-<h2>📺 Popular YouTube Videos</h2>
-
+## 📺 YouTube
 - [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[youtube]: https://www.youtube.com/@4lishbaRihash
-[instagram]: https://www.instagram.com/alishbaugc/
-[linkedin]: https://www.linkedin.com/in/alishba-rizwan-854962292/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with me
+[LinkedIn](https://www.linkedin.com/in/alishba-rizwan-854962292/) · [YouTube](https://www.youtube.com/@4lishbaRihash)
